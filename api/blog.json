@@ -4,5 +4,17 @@
     "title": "First Blog Post",
     "author": "Paul Niemczyk",
     "body": "These student devs keep getting younger and smarter"
+  },
+  {
+    "post_id": 2,
+    "title": "Second Blog Post",
+    "author": "Mr Panda",
+    "body": "post methods be hype"
+  },
+  {
+    "post_id": 3,
+    "title": "Third Blog Post",
+    "author": "Nathaniel Ross",
+    "body": "post methods be wack"
   }
 ]
